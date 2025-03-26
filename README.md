@@ -1,9 +1,9 @@
 # Bem-vindo ao meu perfil
 
 ## Sobre mim
-- **Pedro Valença Ferraz**, 19 anos
+- Pedro Valença Ferraz, 19 anos
 - Explorando novas tecnologias e programando.
-- Estudando ciência da computação (2º período) na **César School**.
+- Estudando ciência da computação (2º período) na César School.
 - Buscando estágio para expandir meu conhecimento e aplicá-lo.
 
 ## Minhas Skills

@@ -4,7 +4,6 @@
 - Pedro Valença Ferraz
 - Explorando novas tecnologias e programando.
 - Estudando ciência da computação do 3º período na Cesar school.
-- Buscando estágio para expandir meu conhecimento e aplicá-lo.
 
 ## Minhas Skills
 
@@ -15,11 +14,12 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
-
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Onde me encontrar
 

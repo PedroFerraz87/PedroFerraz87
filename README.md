@@ -3,7 +3,7 @@
 ## Sobre mim
 - Pedro Valença Ferraz
 - Explorando novas tecnologias e programando.
-- Estudante de Ciências da Computação do 4º período na Cesar School.
+- Estudante de Ciências da Computação do 5º período na Cesar School.
 
 ## Minhas Skills
 
